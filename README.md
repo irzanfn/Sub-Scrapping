@@ -1,4 +1,4 @@
-# SubScrapping (formerly Zombie Subs Tracker)
+# SubScrapping
 
 SubScrapping is a modern web application designed to help you track recurring subscriptions (Netflix, Spotify, SaaS tools, etc.) and automatically add new ones by forwarding your email receipts to a dedicated webhook.
 
